@@ -10,7 +10,7 @@ Preview the example live on [Heroku](https://www.heroku.com/):
 
 ## How to use
 
-Clone this repo and execute the following commands:
+Clone this repo, rename .env.sample to .env.local and execute the following commands:
 
 ```bash
 npm i
