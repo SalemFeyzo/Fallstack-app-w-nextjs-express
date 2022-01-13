@@ -6,7 +6,7 @@ Sample app using Express NextJS MongoDB Passport
 
 Preview the example live on [Heroku](https://www.heroku.com/):
 
-[![Open on Heroku](https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/custom-server-express?runScript=dev)
+[![Open on Heroku](https://www.svgrepo.com/show/306186/heroku.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/custom-server-express?runScript=dev)
 
 ## How to use
 
